@@ -9,3 +9,5 @@ def insertionSort(list):
             compareIndex = compareIndex - 1
         
         list[compareIndex + 1] = key
+
+    return list
