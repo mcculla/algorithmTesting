@@ -26,5 +26,5 @@ if __name__ == '__main__':
     print("Initial array: ", end="\n")
     printArray(arr)
     insertionSort(arr)
-    print("Result: ", end="\n")
+    print("insertionSort Result: ", end="\n")
     printArray(arr)
